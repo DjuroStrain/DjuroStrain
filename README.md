@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DjuroStrain
-- C++, C#, HTML, Javascript
+- C++, C#, HTML, CSS, Javascript, Typescript
 
 <!---
 DjuroStrain/DjuroStrain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
